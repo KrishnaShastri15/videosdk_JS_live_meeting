@@ -90,7 +90,7 @@ You can use a temporary token for development purposes. To generate one:
 - Generate a temporary token.
 
 ### Production Environment:
-For production use, you need to set up an authentication server to generate tokens securely. Refer to the [VideoSDK API Server Examples](https://github.com/videosdk-live/videosdk-rtc-api-server-examples) for guidance.
+For production use, you need to set up an authentication server to generate tokens securely.
 
 ## 📖 Examples
 
@@ -100,12 +100,6 @@ Explore additional examples and use cases in the [official documentation](https:
 
 Detailed documentation is available at [VideoSDK Documentation](https://docs.videosdk.live/).
 
-## 💬 Join Our Community
 
-Connect with us:
-- [Discord Community](https://discord.gg/vedio-sdk)
-- [GitHub Issues](https://github.com/videosdk-live/videosdk-rtc-javascript-sdk-example/issues)
 
----
 
-Happy Coding with VideoSDK! 🚀
